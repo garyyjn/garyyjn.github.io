@@ -5,6 +5,7 @@ date: 2024-06-10 15:00:00
 description: I gave a talk at Cocoahead
 tags: XR
 categories: sample-posts
+featured: true
 ---
 
 I gave a talk. 
