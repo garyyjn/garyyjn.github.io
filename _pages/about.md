@@ -2,24 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: AI Research & XR to Improve Daily Lives
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: v.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
+  more_info: 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Extension of our reality doesn't have to be overnight-revolutionary, instead, little by little, XR will increasingly join with and enhance our everyday activities. I'm doing my part: [XR Lab Assistant APP](https://www.linkedin.com/posts/garyyaotailwind_wwdc-activity-7205955621790109697-O3_m?utm_source=share&utm_medium=member_desktop). [Sharing an Immersive Space](https://docs.google.com/presentation/d/1O_fLPBY9q7QaQM7wFPJomSa7GYDLQzxKhsB7U6rOTgA/edit?usp=sharing). On-the-fly generation of 3-D entities that fits the environment(Demo Inc.). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Taking software engineering and machine learning contract work on the side. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I worked at Mayo Clinic, preforming AI research in AI Pathology, Adversarial Robustness and Transcriptomics. I made several publications.
+
+While studying at Case Western Reserve University, I really grew obssesed with taking on challenges with smart people. I TA'ed Algorithms starting from 2nd year. I started and ran the university's competitive programming team that did pretty well at ICPC. [I was recognized.]\(https://thedaily.case.edu/undergraduate-gary-yao-receives-cwru-endowed-robert-l-shurter-prize/)
+
+I also worked at Cleveland Clinic on cardiac diagnostic AI, and Tsinghua university on neural network quantization. 
