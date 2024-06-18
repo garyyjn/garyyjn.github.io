@@ -23,3 +23,7 @@ Previously, I worked at Mayo Clinic, preforming AI research in AI Pathology, Adv
 While studying at Case Western Reserve University, I grew obssesed with the process of solving tough challenges with smart people. I TA'ed Algorithms starting from 2nd year. I started and ran the university's competitive programming team that did pretty well at ICPC. [I was recognized.](https://thedaily.case.edu/undergraduate-gary-yao-receives-cwru-endowed-robert-l-shurter-prize/)
 
 I also worked at Cleveland Clinic on cardiac diagnostic AI, and Tsinghua University on neural network quantization. 
+
+Thank you for visiting my site!
+
+(This website is work-in-progress)
