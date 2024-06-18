@@ -6,10 +6,9 @@ description: publications by categories in reversed chronological order. generat
 nav: true
 nav_order: 2
 ---
+# Publications
 
-<!-- _pages/publications.md -->
-<div class="publications">
-
-{% bibliography %}
-
-</div>
+- [AI Pathology Diagnosis of Alzheimer](URL_HERE)
+- [Adversarial Attack and Defense in Weakly Supervised Learning](URL_HERE)
+- [AI Pathology for Duodenum](URL_HERE)
+- [Neural Network Quantization](URL_HERE)
