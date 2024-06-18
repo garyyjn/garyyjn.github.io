@@ -1,8 +1,8 @@
 ---
 layout: post
-title: I gave a talk on Sharing Vision Pro Immersive Space at Cocoahead
+title: Demo for Lab Assitance in XR
 date: 2024-06-10 15:00:00
-description: I gave a talk on Sharing Vision Pro Immersive Space at Cocoahead
+description: Demo for Lab Assitance in XR
 tags: XR
 categories: sample-posts
 featured: true
