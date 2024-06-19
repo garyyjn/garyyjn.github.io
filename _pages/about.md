@@ -26,4 +26,4 @@ I also worked at Cleveland Clinic on cardiac diagnostic AI, and Tsinghua Univers
 
 Thank you for visiting my site!
 
-(This website is work-in-progress)
+(This website is a work-in-progress)
