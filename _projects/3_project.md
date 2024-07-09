@@ -1,18 +1,16 @@
 ---
 layout: page
-title: Apple Vision Pro as Lab Assistant
-description: Wonder what's in that beaker?
-img: assets/img/labarbig.webp
+title: Shared Space Catch Game
+description: Interact with shared objects in a shared immersive space
+img: assets/img/ball_toss.png
 importance: 1
 category: work
 related_publications: false
 ---
 
-I’m motivated by the challenge of information overload in laboratories —navigating complex protocols, electronic lab notebooks, and various timed equipment, especially for trainees. As such, I'm using XR (Extended Reality) devices to blend instructional content directly into the lab’s physical environment. 
+An extension on the prototypical shared space we created at VisionDevCamp. I wanted to demostrate that shared entities in the shared space can be interactive. Previously, the fireball demo is quite magical, but the fireballs don't do anything but fly. In this extension, we can now shared owner ship over an augmented ball, playing catch just like with a real-life ball. 
 
-Demo:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/afzr0F93vp8?si=L0JPQhqZ-Zf5EgWh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% include figure.liquid loading="eager" path="assets/img/toss.gif" title="toss demo" class="img-fluid rounded z-depth-1" %}
 
 
 Speifics can be found on company site: la-bar.com
