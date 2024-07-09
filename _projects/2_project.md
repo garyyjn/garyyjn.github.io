@@ -2,7 +2,7 @@
 layout: page
 title: Spatial Computing as Interface for Robotics
 description: Recontruct the lab 
-img: assets/img/robot_spatial_twin.png
+img: assets/project_assets/robot_spatial_twin.png
 importance: 1
 category: work
 related_publications: false
