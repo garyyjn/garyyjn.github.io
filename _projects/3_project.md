@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Apple Vision Pro as Lab Assistant
-description: Protocols, Spatial Computing
+description: Wonder what's in that beaker?
 img: assets/img/labarbig.webp
 importance: 1
 category: work
