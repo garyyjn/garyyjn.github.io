@@ -8,6 +8,6 @@ categories: sample-posts
 featured: true
 ---
 
-I gave a talk. 
+At Cocoahead SF, I will be presenting how to join together the immersive space of multiple Apple Vision Pro Devices. If we both wear our AVPs in the same room, we should be able to share the augmented magic.
 
-links:
+links: https://www.meetup.com/swift-language/events/300506240/
