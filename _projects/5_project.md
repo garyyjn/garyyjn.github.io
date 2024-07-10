@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Adversarial Attack in AI Pathology
-description: Modify a very small portion of slide imaging very slightly to trick Pathology AI, and how to defend.
+description: Trick a imaging diagnostic AI to output whatever you want.
 img: assets/img/defense.png
 importance: 1
 category: work
