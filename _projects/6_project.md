@@ -8,12 +8,6 @@ category: work
 related_publications: false
 ---
 
-A universally applicable injection to 3d CNN video classifier that allows for explainability tools such as grad-cam to distinguish between static (single frame) evidence and moving evidence (motion) that contributed to model decision. Easy fine-tuning and no effect on accuracy in experiment. 
+A universally applicable injection to 3d CNN video classifiers that allows for explainability tools such as grad-cam to distinguish between static (single frame) evidence and moving evidence (motion) that contributed to model decision. Easy fine-tuning and no effect on accuracy in experiment. 
 
-{% include figure.liquid loading="eager" path="assets/img/attack.png" title="toss demo" class="img-fluid rounded z-depth-1" %}
-
-I also propose computationally-cheap methods for training againest such an attack.
-
-{% include figure.liquid loading="eager" path="assets/img/defense.png" title="toss demo" class="img-fluid rounded z-depth-1" %}
-
-Paper/poster presented at ICML BioComp Workshop
+{% include figure.liquid loading="eager" path="assets/img/bettergram.gif" title="demo" class="img-fluid rounded z-depth-1" %}
