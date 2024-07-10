@@ -10,4 +10,8 @@ related_publications: false
 
 A universally applicable injection to 3d CNN video classifiers that allows for explainability tools such as grad-cam to distinguish between static (single frame) evidence and moving evidence (motion) that contributed to model decision. Easy fine-tuning and no effect on accuracy in experiment. 
 
+
+Applied to Clevelend Clinic's cardiac AI ejection fraction classifation models. 
+
 {% include figure.liquid loading="eager" path="assets/img/bettergram.gif" title="demo" class="img-fluid rounded z-depth-1" %}
+
