@@ -8,7 +8,7 @@ category: fun
 related_publications: false
 ---
 
-Within 1 month of AVP official release, we published our minimalistic puzzle game with a bit of immersive twist. Hundred+ downlods.
+Within weeks of AVP official release, we published our minimalistic puzzle game with a bit of immersive twist. 
 
 
 {% include figure.liquid loading="eager" path="assets/img/0710.png" title="demo" class="img-fluid rounded z-depth-1" %}
